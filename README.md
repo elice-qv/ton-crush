@@ -1,6 +1,8 @@
 
 Casino is haram! Gambling is haram!
+
 Alhamdullilah! Only halal coding
+
 Лудка это зло, если ты лудик, ты по жизни проиграл
 Игра: 
 
