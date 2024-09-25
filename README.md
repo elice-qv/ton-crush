@@ -26,6 +26,12 @@ My tg: https://t.me/twonumbernine
 
 if you want to read english version of this shit lets use ctrl+c and ctrl+v into translator
 
+requirements: 
+* shadcn/ui
+* lucide-react
+* react-dom(is default)
+* other reqs i remembered
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 ## Getting Started
