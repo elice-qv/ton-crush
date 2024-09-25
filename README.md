@@ -1,3 +1,6 @@
+
+Casino is haram! Gambling is haram!
+Alhamdullilah! Only halal coding
 Лудка это зло, если ты лудик, ты по жизни проиграл
 Игра: 
 
@@ -7,8 +10,24 @@
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2d0e567b-013f-45ca-8b2b-66a86d5eead4">
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Данный проект все еще в разработке, из целей: 
+1) подключить TON Space или подобную шляпу для работы с криптой внутри TG Web App
+2) довести до идеала анимации
+3) проработка скрипта казика
+4) добавление проверки на ботов и скриптов(анти селениум)
+5) проверка на источник входа(вход только из tg web app)
+6) доменная миграция для обхода блокировок
+7) миграция между ботами
+8) анти DDoS
+9) Интеграция с Telegram API
+
+My tg: https://t.me/twonumbernine
+
+if you want to read english version of this shit lets use ctrl+c and ctrl+v into translator
+
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 ## Getting Started
 
 First, run the development server:
