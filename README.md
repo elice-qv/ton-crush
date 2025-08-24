@@ -1,3 +1,5 @@
+# New TON Crash projct: https://github.com/elice-qv/Crash-Game-Telegram-Mini-App
+
 
 Casino is haram! Gambling is haram!
 
